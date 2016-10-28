@@ -2,6 +2,4 @@
 
 This is a really awesome site
 
-Now Editing on update-readme branch
-
-Updated locally
+Updates made om master on Github before rebase.
