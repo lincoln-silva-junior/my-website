@@ -1,4 +1,4 @@
-	# My Website
+# My Website
 
 This is a really awesome site
 
@@ -12,4 +12,8 @@ This file is just a readme file.
 
 The purpose of this file is to provide examples
 on how to use Git and GitHub together.
+
+## Getting Started
+
+To get start with this project, just "clone" this repository.
 
